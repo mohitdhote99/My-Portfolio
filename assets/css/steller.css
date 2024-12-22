@@ -11228,11 +11228,12 @@ pre {
 }
 
 .testmonial-card img {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  box-shadow: 2px 3px 10px rgba(206, 212, 218, 0.3);
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+  box-shadow: 2px 3px 10px 0px rgb(164 164 164 / 88%);
   margin-bottom: 30px;
+  padding: 4px;
 }
 
 .testmonial-card .title {
